@@ -29,4 +29,24 @@ Los valores en el eje x son los años, y los valores en el eje y son las horas t
 
 ![Gráfico de pastel de la proporción de tipos de accidentes](images/rotacion_vs_formacion.png)
 
+Nuevo análisis del dataset aplicando métodos de estructuras de datos para business analytics:
 
+### Gráfico de la Antigüedad Media a lo Largo del Tiempo
+Este gráfico muestra que la antigüedad media de los empleados ha disminuido ligeramente a lo largo del tiempo tanto para hombres como para mujeres.
+
+![Gráfico de la Antigüedad Media a lo Largo del Tiempo](images/antiguedad.png)
+
+### Gráfico del Índice de Rotación a lo Largo del Tiempo
+Este gráfico muestra que el índice de rotación ha aumentado a lo largo del tiempo tanto para hombres como para mujeres, lo que indica que la rotación de empleados ha sido más alta en los años más recientes.
+
+![Gráfico del Índice de Rotación a lo Largo del Tiempo](images/rotacion.png)
+
+### Gráfico de la Evolución del Número de Empleados con el Tiempo
+Este gráfico de líneas muestra cómo ha cambiado el número de empleados en la empresa a lo largo de los años, diferenciando entre hombres y mujeres.
+ 
+![Gráfico de la Evolución del Número de Empleados con el Tiempo](images/evolucion.png)
+
+### Gráfico de la Proporción de Hombres y Mujeres en la Plantilla
+Este gráfico muestra cómo ha cambiado la proporción de hombres y mujeres en la plantilla a lo largo del tiempo usando un gráfico de barras apiladas.
+
+![Gráfico de la Proporción de Hombres y Mujeres en la Plantilla](images/proporcion.png)
