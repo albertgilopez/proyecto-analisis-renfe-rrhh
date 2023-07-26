@@ -1,7 +1,9 @@
 # Análisis RENFE RRHH
 ### AUTOR: Albert Gil López (https://www.linkedin.com/in/albertgilopez/)
 
-En este proyecto, se realiza un análisis detallado de los datos de la inversión en la comunidad por parte de RENFE de los años 2014 a 2019. Se utilizan técnicas de análisis de datos y visualización para explorar y entender los datos. Se realiza una limpieza y transformación de los datos, así como la creación de nuevas variables para obtener más información de los datos.
+Este repositorio contiene un análisis detallado del dataset público de RENFE con datos relacionados con los recursos humanos de la compañía hasta el 2019 que puedes descargar de su web.
+
+Se utilizan técnicas de análisis de datos y visualización para explorar y entender los datos. Se realiza una limpieza y transformación de los datos, así como la creación de nuevas variables para obtener más información de los datos.
 
 Uno de los hallazgos clave del análisis fue la realización de un análisis de Pareto para examinar la distribución de la inversión en la comunidad. Se puede observar en el gráfico que un pequeño porcentaje de los años representa una gran proporción de la inversión total en la comunidad. En concreto, los años 2014 y 2015 representaron más del 50% de la inversión total en la comunidad.
 
